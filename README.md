@@ -8,7 +8,7 @@ I’m learning in public and documenting everything I practice with Terraform �
 
 ## 🔗 Follow My Journey
 - 📝 Blogs (Hashnode): [DevOps Diaries](https://abdulraheem.hashnode.dev)  
-- 📝 Blogs (Medium): [Your Medium Link Here]  
+- 📝 Blogs (Medium): [Medium Blogs](https://medium.com/@abdulraheem381)  
 - 🐦 Daily Updates on X: [@Abdulraheem183](https://x.com/Abdulraheem183)  
 
 ---
@@ -48,4 +48,4 @@ Learning in public and sharing my journey to inspire others.
 
 📩 Contact: abdulraheempk579@gmail.com  
 
-Do you also want me to prepare a **GitHub repo banner (social preview image)** with Terraform + “Learning Journey” branding so your repo looks attractive when shared?
+
