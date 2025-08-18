@@ -60,4 +60,4 @@ This will provision a **t2.micro EC2 instance** in AWS. 🎉
 🐦 Updates: [X (Twitter)](https://x.com/Abdulraheem183)
 
 
-Do you want me to also write a **short description for your repo’s main README.md** (so it looks polished when people first open your repo)?
+
