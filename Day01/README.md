@@ -31,7 +31,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "example" {
-  ami           = "ami-08c40ec9ead489470"
+  ami           = "ami-0861f4e788f5069dd"
   instance_type = "t2.micro"
 
   tags = {
@@ -58,6 +58,7 @@ This will provision a **t2.micro EC2 instance** in AWS. 🎉
 
 📖 Blogs: [Hashnode](https://abdulraheem.hashnode.dev) 
 🐦 Updates: [X (Twitter)](https://x.com/Abdulraheem183)
+
 
 
 
