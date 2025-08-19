@@ -51,6 +51,5 @@ terraform destroy    # delete infrastructure
 💻 Code: [GitHub](#)
 🐦 Updates: [X (Twitter)](https://x.com/Abdulraheem183)
 
-```
 
 
