@@ -54,7 +54,3 @@ terraform destroy    # delete infrastructure
 ```
 
 
-✅ Now you have **everything in one clean package** for Day 02.  
-
-Do you also want me to create a **LinkedIn-style weekly recap draft** (since you’re doing daily blogs + weekly LinkedIn posts)?
-```
