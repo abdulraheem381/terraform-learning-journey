@@ -7,8 +7,7 @@ I’m learning in public and documenting everything I practice with Terraform �
 ---
 
 ## 🔗 Follow My Journey
-- 📝 Blogs (Hashnode): [DevOps Diaries](https://abdulraheem.hashnode.dev)  
-- 📝 Blogs (Medium): [Medium Blogs](https://medium.com/@abdulraheem381)  
+- 📝 Blogs (Hashnode): [DevOps Diaries](https://abdulraheem.hashnode.dev)    
 - 🐦 Daily Updates on X: [@Abdulraheem183](https://x.com/Abdulraheem183)  
 
 ---
