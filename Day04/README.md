@@ -29,5 +29,6 @@ Terraform will automatically save the state file to the configured **S3 bucket**
 📖 Blog Post: [Hashnode](https://abdulraheem.hashnode.dev/terraform-aws-day-04-understanding-tfstate-file-and-remote-storage-in-s3)
 🐦 Follow Updates: [X (Twitter)](https://x.com/Abdulraheem183)
 
-```
+
+
 
