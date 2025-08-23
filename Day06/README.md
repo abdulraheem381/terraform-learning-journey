@@ -23,3 +23,7 @@ terraform apply
 
 🎯 Once deployed, open the URL in your browser to see the Nginx welcome page.
 
+📖 Blog 👉 [Day 06 – Building Your Own VPC, Deploying EC2, and Running Nginx with Terraform](https://abdulraheem.hashnode.dev/day-06-building-your-own-vpc-deploying-ec2-and-running-nginx-with-terraform)
+🐦 Follow 👉 [X (Twitter)](https://x.com/Abdulraheem183) | [Hashnode](https://abdulraheem.hashnode.dev/) 
+
+
