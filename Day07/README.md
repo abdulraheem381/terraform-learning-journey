@@ -21,7 +21,7 @@ Today I learned about **Terraform Data Sources**, which let us fetch existing AW
 - Auto-generated URL: `http://<instance_ip>`
 
 ## 🔗 Resources
-- [Official Terraform Docs on Data Sources](https://developer.hashicorp.com/terraform/docs/language/data-sources)
+- [Official Terraform Docs on Data Sources](https://developer.hashicorp.com/terraform/docs)
 
 ---
 
@@ -29,3 +29,4 @@ Today I learned about **Terraform Data Sources**, which let us fetch existing AW
 - GitHub: [Terraform-Learning](https://github.com/abdulraheem381/terraform-learning-journey)  
 - X (Twitter): [@Abdulraheem183](https://x.com/Abdulraheem183)  
 - Blog: [Hashnode Blog](https://abdulraheem.hashnode.dev/day-07-using-data-sources-in-terraform-vpc-security-groups-and-ami)
+
