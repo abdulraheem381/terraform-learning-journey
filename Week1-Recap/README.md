@@ -1,4 +1,4 @@
-## 📅 Day 08 – Week 1 Recap  
+## 📅 Week 1 Recap  
 
 I completed my first 7 days of learning Terraform!  
 Here’s a summary of what I covered:  
@@ -12,3 +12,4 @@ Here’s a summary of what I covered:
 - Day 07: Data Sources  
 
 📝 [Read the Week 1 Recap Blog](https://abdulraheem.hashnode.dev/terraform-learning-journey-week-1-recap)  
+
