@@ -38,6 +38,8 @@ region      = "ap-south-1"
 
 I’m sharing my **Terraform learning journey daily**:
 
-* 📂 [Terraform Learning Journey GitHub Repo](https://github.com/your-repo-link)
-* 🐦 [Follow me on X](https://x.com/your-handle)
+* 📂 [Terraform Learning Journey GitHub Repo](https://github.com/abdulraheem381/terraform-learning-journey)
+* 🐦 [Follow me on X](https://x.com/Abdulraheem183)
+* ✍️ [Read Complete Blog](https://abdulraheem.hashnode.dev/terraform-variables-locals-and-outputs-explained)
+
 
