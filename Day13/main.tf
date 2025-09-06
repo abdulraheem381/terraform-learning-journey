@@ -16,7 +16,7 @@ resource "aws_s3_bucket" "example" {
 
   tags = {
     Environment = var.environment
-    Owner       = local.owner_name
+    Owner       = ME
   }
 }
 
