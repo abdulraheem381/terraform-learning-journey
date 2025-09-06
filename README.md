@@ -45,6 +45,6 @@ terraform-learning-journey/
 I’m Abdul Raheem, a **DevOps & Cloud Engineer** 🚀  
 Learning in public and sharing my journey to inspire others.  
 
-📩 Contact: abdulraheempk579@gmail.com  
+📩 Contact: shadowpulse.pentest@gmail.com
 
 
