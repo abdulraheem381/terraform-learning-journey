@@ -29,7 +29,7 @@ This project demonstrates how to use **`count`** and **`for_each`** meta-argumen
    ```bash
    git clone https://github.com/your-username/Day15-Multiple-Resources.git
    cd Day15-Multiple-Resources
-````
+
 
 2. Initialize Terraform:
 
@@ -48,4 +48,5 @@ This project demonstrates how to use **`count`** and **`for_each`** meta-argumen
 * 📖 Full blog series on Hashnode: [Terraform with AWS](https://your-hashnode-link)
 * 💻 GitHub Repo: [Terraform Projects](https://github.com/your-username/Terraform-Learning-Journey)
 * 🐦 X (Twitter): [@YourHandle](https://twitter.com/yourhandle)
+
 
