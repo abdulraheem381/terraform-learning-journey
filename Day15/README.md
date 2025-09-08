@@ -45,8 +45,9 @@ This project demonstrates how to use **`count`** and **`for_each`** meta-argumen
 
 ## 🔗 Follow My Journey
 
-* 📖 Full blog series on Hashnode: [Terraform with AWS](https://your-hashnode-link)
-* 💻 GitHub Repo: [Terraform Projects](https://github.com/your-username/Terraform-Learning-Journey)
-* 🐦 X (Twitter): [@YourHandle](https://twitter.com/yourhandle)
+* 📖 Full blog series on Hashnode: [Terraform with AWS](https://abdulraheem.hashnode.dev/series/terraform-with-aws)
+* 💻 GitHub Repo: [Terraform Learning repo](https://github.com/abdulraheem381/terraform-learning-journey)
+* 🐦 X (Twitter): [Foolow me on X](https://x.com/Abdulraheem183)
+
 
 
