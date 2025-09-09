@@ -35,7 +35,7 @@ terraform-learning-journey/
 
 ## 🗓 Weekly Recaps
 - Week 1 → [https://abdulraheem.hashnode.dev/terraform-learning-journey-week-1-recap]  
-- Week 2 → [Blog Link Here]  
+- Week 2 → [https://abdulraheem.hashnode.dev/terraform-learning-journey-week-2-recap-days-0915]  
 - Week 3 → [Blog Link Here]  
 - Week 4 → [Blog Link Here]  
 
